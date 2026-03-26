@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/fastapi-0.100%2B-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+ 
 ## Description
 A real-time, advanced platform for monitoring, analyzing, and optimizing AWS cloud costs. Features include cost anomaly detection using ML, resource optimization recommendations, budget tracking, and automated cost reporting. Built with FastAPI, Celery, SQLAlchemy, and AWS Cost Explorer API.
 
